@@ -1,0 +1,1 @@
+puts Date.today
